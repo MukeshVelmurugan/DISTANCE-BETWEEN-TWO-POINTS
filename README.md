@@ -10,7 +10,7 @@ Create two variables and assign the given point values to the variables
 ### Step 3:
 Create another variable for using the  math function and use math.sqrt() to get the solution 
 ### Step 4:
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![formula](/formula.png)
 to get the solution 
 ### Step 5:
 By using 'print' command display the result
